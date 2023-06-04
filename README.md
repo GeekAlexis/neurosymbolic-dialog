@@ -1,5 +1,5 @@
-# Neurosymbolic Dialogue System
-A task-oriented dialog system based on LLM (GPT-3) infused with neurosymbolic rules.
+# Neuro-Symbolic Dialogue System
+A task-oriented dialog system based on LLM (GPT-3) infused with neuro-symbolic rules.
 When evaluated on MultiWOZ 2.2, the proposed dual-system increases task success rate by **16%**, significantly improving generation consistency and coherence.
 
 <img src="algorithm.png" width="800"/>
